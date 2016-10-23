@@ -1,1 +1,3 @@
-# anchoring-problem
+# Anchoring Problem
+
+Information is in the wiki.
