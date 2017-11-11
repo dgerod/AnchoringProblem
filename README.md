@@ -7,7 +7,7 @@ _Anchoring_ is the problem of connecting, inside an artificial system, symbols a
 Repositories involved in this work:
 * [anchoring_system](https://github.com/dgerod/anchoring_system)
 * [ROSPlan](https://github.com/dgerod/ROSPlan)
-* [rosplan_interface](https://github.com/dgerod/rosplan_interface)
+* [rosplan_pytools](https://github.com/dgerod/rosplan_pytools)
 * [task-planning](https://github.com/dgerod/task-planning)
 * [robots-in-morse-using-ros](https://github.com/dgerod/robots-in-morse-using-ros)
 * [MORSE](https://github.com/dgerod/MORSE)
