@@ -8,6 +8,4 @@ Repositories involved in this work:
 * [ROSPlan](https://github.com/dgerod/ROSPlan)
 * [rosplan_pytools](https://github.com/dgerod/rosplan_pytools)
 * [task-planning](https://github.com/dgerod/task-planning)
-* [robots-in-morse-using-ros](https://github.com/dgerod/robots-in-morse-using-ros)
-* [MORSE](https://github.com/dgerod/MORSE)
 * [ARIAC 2018](https://github.com/dgerod/ariac-2018)
