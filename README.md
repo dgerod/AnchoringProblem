@@ -10,3 +10,4 @@ Repositories:
 * [task-planning](https://github.com/dgerod/task-planning)
 * [ARIAC 2018](https://github.com/dgerod/ariac-2018)
 * [Learning BTs](https://github.com/dgerod/behavior_tree_learning)
+* [Jog Arm](https://github.com/dgerod/jog_arm)
